@@ -10,7 +10,8 @@
 
 - 🎓 &nbsp;Currently getting my university degree @ <a href="https://www.ifmg.edu.br/portal">IFMG</a>
 - 😄 &nbsp;Intern Software Developer @ <a href="https://www.mundiale.com.br/">Mundiale</a>
-- 💚 &nbsp;Currently studying NodeJS and backend development
+- :computer: &nbsp; Focused on backend development
+- 💚 &nbsp;Currently studying NodeJS and Go
 - 🤔 &nbsp;Help and suggestions are always welcome
 - 💬 &nbsp;Ask me about whatever you wanna know                                                   
 - ⚡ &nbsp;PTBR/ENG/한
