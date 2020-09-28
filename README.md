@@ -9,7 +9,7 @@
 <td  style="text-align: center; border: 0">
 
 - 🎓 &nbsp;Currently getting my university degree @ <a href="https://www.ifmg.edu.br/portal">IFMG</a>
-- 😄 &nbsp;Intern Software Developer @ <a href="https://www.mundiale.com.br/">Mundiale</a>
+- 😄 &nbsp;Software Developer @ <a href="https://www.mundiale.com.br/">Mundiale</a>
 - :computer:&nbsp; Focused on backend development
 - 💚 &nbsp;Currently studying NodeJS and Go
 - 🤔 &nbsp;Help and suggestions are always welcome
@@ -27,7 +27,7 @@
 
 <td>
 
-[![Twitter Badge](https://img.shields.io/badge/-@izabela29am-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/izabela29am)](https://twitter.com/izabela29am)
+[![Twitter Badge](https://img.shields.io/badge/-@izabela29am-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/izabela29am)](https://twitter.com/iza0x01)
 
 [![Linkedin Badge](https://img.shields.io/badge/-IzabelaMatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabela-matos/)](https://www.linkedin.com/in/izabela-matos/) 
 
