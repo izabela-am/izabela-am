@@ -8,12 +8,11 @@
 <tr  style="text-align: center; border: 0">
 <td  style="text-align: center; border: 0">
 
-- 🎓 &nbsp;Currently getting my university degree @ <a href="https://www.ifmg.edu.br/portal">IFMG</a>
+- 💚 &nbsp;Backend Software Engineer @ <a href="https://flu.ke/">Fluke</a>
 - 😄 &nbsp;Infosec enthusiast</a>
-- :computer:&nbsp; Focused on backend development
-- 💚 &nbsp;Currently studying NodeJS and Go
+- :computer:&nbsp; I like low-level stuff
 - 🤔 &nbsp;Help and suggestions are always welcome
-- 💬 &nbsp;Ask me about whatever you wanna know                                                   
+- 💬 &nbsp;Ask me about whatever, maybe I can help!                                                   
 - ⚡ &nbsp;PTBR/ENG
       
 </td  style="text-align: center; border: 0">
