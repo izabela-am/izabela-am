@@ -6,7 +6,7 @@
   <em>University Student @ <a href="https://www.ifmg.edu.br/sabara">IFMG</a></br></em>
 </p>
 
-[![Twitter: iza0x01](https://img.shields.io/twitter/follow/iza0x01?style=social)](https://twitter.com/iza0x01)
+[![Twitter: izabela_cpp](https://img.shields.io/twitter/follow/izabela_cpp?style=social)](https://twitter.com/izabela_cpp)
 [![Linkedin Badge](https://img.shields.io/badge/-IzabelaMatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabela-matos/)](https://www.linkedin.com/in/izabela-matos/)
 
 ###  <img src="https://www.pngkey.com/png/full/221-2212352_niandoge-nyan-cat-png-gif.png" width="50"> A little bit about me  
