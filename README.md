@@ -2,7 +2,7 @@
 <img align='right' src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/200w.gif?cid=82a1493b7u1upzzqo3g0icrbvlu6f3eu7ijfrdo8m1tz0bwg&rid=200w.gif" width="230">
 
 <p>
-  <em>Backend Software Enginner @ <a href="https://flu.ke/">Fluke</a></br></em>
+  <em>Backend Software Engineer @ <a href="https://flu.ke/">Fluke</a></br></em>
   <em>University Student @ <a href="https://www.ifmg.edu.br/sabara">IFMG</a></br></em>
 </p>
 
@@ -17,7 +17,7 @@ const iza = {
   programmingLanguages: [ 'JavaScript', 'TypeScript', 'C' ],
   tools: [ 'Node.js', 'React.js', 'React Native' ],
   databases: [ 'PostgreSQL', 'MongoDB', 'Firebase' ],
-  hobbies: [ 'Thai boxing', 'Gaming', 'Reading' ],
+  iAm: [ 'bassist', 'bookworm', 'pet lover' ],
   languages: [ 'PT-BR', 'ENG' ]
 }
 ```
