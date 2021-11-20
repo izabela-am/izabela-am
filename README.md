@@ -1,26 +1,39 @@
-<h2> Hey there, I'm Izabela!</h2>
-<img align='right' src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/200w.gif?cid=82a1493b7u1upzzqo3g0icrbvlu6f3eu7ijfrdo8m1tz0bwg&rid=200w.gif" width="230">
-
-<p>
-  <em>Backend Software Engineer @ <a href="https://flu.ke/">Fluke</a></br></em>
-  <em>University Student @ <a href="https://www.ifmg.edu.br/sabara">IFMG</a></br></em>
+<h2 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
+<p align="center">
+  <samp>
+    I am Izabela! A computer programmer from Brazil, with over 3 years of experience. <br>
+    I'm currently working as a Backend Software Engineer at <a href='https://flu.ke/'>Fluke</a> and getting my Bachelor's degree in Information Systems at <a href='https://www.ifmg.edu.br/portal'>IFMG
+    
+  </samp>
+  <br> <br>
 </p>
+  
+<hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-IzabelaMatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabela-matos/)](https://www.linkedin.com/in/izabela-matos/)
+<h2 align="center">Tools 🪛 </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Firebase%20-%231572B6.svg?&style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript%20-%231572B6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p align="center">These are the tools I feel most confident working with</p>
 
-###  <img src="https://www.pngkey.com/png/full/221-2212352_niandoge-nyan-cat-png-gif.png" width="50"> A little bit about me  
+<hr>
 
-```javascript
-const iza = {
-  pronouns: 'she' | 'her',
-  age: 23,
-  programmingLanguages: [ 'JavaScript', 'TypeScript', 'C' ],
-  tools: [ 'Node.js', 'React.js', 'React Native' ],
-  databases: [ 'PostgreSQL', 'MongoDB', 'Firebase' ],
-  iAm: [ 'bassist', 'bookworm', 'pet lover' ],
-  languages: [ 'PT-BR', 'ENG' ]
-}
-```
+<h2 align="center">Studying 📖 </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p align="center">These are the tools I am currently learning to use</p>
 
-<img src="https://i.pinimg.com/originals/89/49/8d/89498d1187c65bdae3a66475d556ca07.gif" width="60"> <em>
-  <b>I am always open to meet new people, so feel free to contact me any time!</em>
+<hr>
+
+<p align="center">
+  <samp>
+    I don't know everything, but I do know how to learn.
+  </samp>
+</p>
