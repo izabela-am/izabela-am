@@ -29,11 +29,3 @@
   <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">These are the tools I am currently learning to use</p>
-
-<hr>
-
-<p align="center">
-  <samp>
-    I don't know everything, but I do know how to learn.
-  </samp>
-</p>
