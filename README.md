@@ -13,7 +13,6 @@
 <h2 align="center">Tools 🪛 </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase%20-%231572B6.svg?&style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript%20-%231572B6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
