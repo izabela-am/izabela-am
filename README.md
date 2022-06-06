@@ -1,4 +1,4 @@
-<h2 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
+<h2 align="center">Hello!</h2>
 <p align="center">
   <samp>
     I am Izabela! A computer programmer from Brazil, with over 3 years of experience. <br>
