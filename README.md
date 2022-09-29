@@ -1,8 +1,8 @@
 <h2 align="center">Hello!</h2>
 <p align="center">
   <samp>
-    I am Izabela! A software developer from Brazil.<br>
-    I currently work with backend development.
+    I am Izabela! A cybersecurity engineer from Brazil.<br>
+    I currently work with appsec and offensive security.
   </samp>
   <br> <br>
 </p>
