@@ -2,7 +2,7 @@
 <p align="center">
   <samp>
     I am Izabela! A cybersecurity engineer from Brazil.<br>
-    I currently work with appsec and offensive security.
+    I currently work with appsec.
   </samp>
   <br> <br>
 </p>
