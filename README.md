@@ -9,11 +9,11 @@
 
 ### 🧭 About Me
 
-- 🔒 Software Security Enegineer
-- 💡 I love tinkering with tech
-- 🔍 Experienced in **systems programming**, **networking**, and **cybersecurity**
-- ☕ Fuelled by coffee and curiosity
-- 🇧🇷 Native Portuguese speaker, fluent in English, learning new languages
+- 🔒 software security engineer
+- 💡 i love tinkering with tech
+- 🔍 experienced in **systems programming**, **networking**, and **cybersecurity**
+- ☕ fuelled by coffee and curiosity
+- 🇧🇷 native portuguese speaker, fluent in english, learning new languages
 
 ---
 
@@ -27,9 +27,10 @@
 
 ### 🎯 Currently Working On
 
-- 🔧 Improving my homelab setup
-- ✍️ Personal side projects & security research
-- 📘 Preparing to take the AWS Solutions Architect exam
+- 🔧 improving my homelab setup
+- ✍️ personal side projects & security research
+- 📚 uni coursework
+- 📘 preparing to take the AWS solutions architect exam
 
 ---
 
