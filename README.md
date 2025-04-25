@@ -28,9 +28,9 @@
 ### 🎯 Currently Working On
 
 - 🔧 improving my homelab setup
+- 🕹️ building a home arcade machine
 - ✍️ personal side projects & security research
 - 📚 uni coursework
-- 📘 preparing to take the AWS solutions architect exam
 
 ---
 
