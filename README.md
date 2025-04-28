@@ -20,7 +20,7 @@
 ### 🧰 Main Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,neovim,nodejs,bash,ts,c" />
+  <img src="https://skillicons.dev/icons?i=apple,linux,neovim,nodejs,bash,ts,c" />
 </p>
 
 ---
