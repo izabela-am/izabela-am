@@ -17,10 +17,10 @@
 
 ---
 
-### 🧰 Main Stack
+### 🧰 Setup
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,linux,neovim,nodejs,bash,ts,c" />
+  <img src="https://skillicons.dev/icons?i=apple,neovim,nodejs,bash,ts,c" />
 </p>
 
 ---
