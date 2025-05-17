@@ -11,7 +11,7 @@
 
 - 🔒 software security engineer
 - 💡 i love tinkering with tech
-- 🔍 experienced in **systems programming**, **networking**, and **cybersecurity**
+- 🔍 experienced in **programming**, **networking**, and **cybersecurity**
 - ☕ fuelled by coffee and curiosity
 - 🇧🇷 native portuguese speaker, fluent in english, learning new languages
 
@@ -20,7 +20,7 @@
 ### 🧰 Setup
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,neovim,nodejs,bash,ts,c" />
+  <img src="https://skillicons.dev/icons?i=apple,neovim,bash,nodejs,ts,go,c" />
 </p>
 
 ---
