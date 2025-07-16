@@ -9,7 +9,7 @@
 
 ### 🧭 About Me
 
-- 🔒 software security engineer
+- 🔒 senior security engineer @ clutch
 - 💡 i love tinkering with tech
 - 🔍 experienced in **programming**, **networking**, and **cybersecurity**
 - ☕ fuelled by coffee and curiosity
